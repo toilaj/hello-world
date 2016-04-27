@@ -1,2 +1,2 @@
-# hello-world
-the first repository
+#-*-coding: UTF-8-*-
+print('Hello,world!')
